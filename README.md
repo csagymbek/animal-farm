@@ -1,3 +1,1 @@
-# Animal Farm search app
-
-# animal-farm
+## Animal Farm Search App
